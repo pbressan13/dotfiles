@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = pbressan13@gmail.com
+	name = Pedro Bressan
